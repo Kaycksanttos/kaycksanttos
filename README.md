@@ -37,5 +37,4 @@
   
 </div>
 
-![Snake animation](https://github.com/Kaycksanttos/Kaycksanttos/blob/output/github-contribution-grid-snake.svg)
 
