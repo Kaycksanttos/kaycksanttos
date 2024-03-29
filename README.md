@@ -4,6 +4,9 @@
 - 🔭 Atualmente estou trabalhando como Analista de Planejamento
 - 🌱 Atualmente estou cursando Engenharia de Software
 
+![Anurag's GitHub stats](https://camo.githubusercontent.com/2cceed41b900f96b10b8e4a8e538cd81bd89c06ced2147fea7572b32426f66fa/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d7472616e73706172656e74)
+
+
 ## Minhas Habilidades UX/UI:⚡ 
  <div style="display: inline_block"><br>
  <img  align="center" alt="Kayck-Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
