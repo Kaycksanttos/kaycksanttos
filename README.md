@@ -4,8 +4,6 @@
 - 🔭 Atualmente estou trabalhando como Analista de Planejamento
 - 🌱 Atualmente estou cursando Engenharia de Software
 
-- 📫 Como entrar em contato comigo: 
-
 ## Minhas Habilidades UX/UI:⚡ 
  <div style="display: inline_block"><br>
  <img  align="center" alt="Kayck-Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
@@ -26,7 +24,7 @@
                    
 </div>
 
-  ##
+  ## Como entrar em contato comigo: 📫
 
 <div> 
   <a href="https://www.youtube.com/@thaiiiekayck" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
